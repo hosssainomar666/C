@@ -1,4 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
